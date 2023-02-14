@@ -1,8 +1,4 @@
-Umsatz,Vorjahr
-Umsatz DEKRA SE,3409
-davon Deutschland,2066
-davon Mittelosteuropa & Naher Osten,532
-davon Nordwesteuropa,346
-davon SŸdwesteuropa,162
-davon Americas,112
-davon APAC,189
+group,Deutschland,Mittelosteuropa & Naher Osten,Nordwesteuropa,Suedwesteuropa,Americas,APAC
+2019,2066,532,346,162,112,189
+2020,1929,146,332,397,93,187
+2021,2145,166,355,551,93,221
